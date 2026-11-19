@@ -17,7 +17,7 @@ Sistema web desarrollado para registrar y consultar el inventario de libros medi
 
 ## Enlace y Autoría
 
-- **Página en vivo:** http://bibliotecapl01.atwebpages.com/[cite: 3]
+- **Página en vivo:** http://bibliotecapl01.atwebpages.com/
 - **Autora:** Heydi Yamilet — Programación 502
 - **gmail:** yamisauri0noob@gmail.com
 
